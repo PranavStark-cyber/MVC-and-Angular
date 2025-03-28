@@ -7,6 +7,7 @@ export interface Dvd {
   title: string;
   price: number;
   releaseDate: Date;
+  imageUrl:string;
 }
 @Injectable({
   providedIn: 'root'

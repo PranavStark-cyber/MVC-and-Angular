@@ -66,29 +66,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>a0yj9pmwrh</Fingerprint>
-      <Integrity>6j9hMrkd8kM8ioC2Ff6Ni1KKUkq9idvRoeAr1t6WNHw=</Integrity>
+      <Fingerprint>xl6ydr2m2w</Fingerprint>
+      <Integrity>C5HB87GNzfahT1ZRMkYi5cJ7TVVKP0L29ISbDGlfZcU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dist\index.html'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dist\main.f20879e96681a701.bundle.js'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dist\main.d26e8ae0a68f244b.bundle.js'))">
       <SourceType>Package</SourceType>
       <SourceId>MVCTest</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MVCTest</BasePath>
-      <RelativePath>dist/main.f20879e96681a701.bundle.js</RelativePath>
+      <RelativePath>dist/main.d26e8ae0a68f244b.bundle.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5or5e7u5fu</Fingerprint>
-      <Integrity>q3pYYp+zkkSEC228IiFT/IMFhtXsc8zErP18TRANKq8=</Integrity>
+      <Fingerprint>qclkgpn02k</Fingerprint>
+      <Integrity>5tLAm9KXgs7qHBypsYsg9SIlqfJEbgqGJ5yN31sytEg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dist\main.f20879e96681a701.bundle.js'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dist\main.d26e8ae0a68f244b.bundle.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dist\polyfills.c1e050f4e0a97fba.bundle.js'))">
       <SourceType>Package</SourceType>

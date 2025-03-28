@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8FCjnHlA89ciXd6ke4LWZwh2/mg0Y0NYKM/p3AAmRDk=",
+  "Hash": "5YqhjgKXsBD4HTXblLdak+TJA0NA51D4u2zOjAKcPW4=",
   "Source": "MVCTest",
   "BasePath": "_content/MVCTest",
   "Mode": "Default",
@@ -136,19 +136,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "a0yj9pmwrh",
-      "Integrity": "6j9hMrkd8kM8ioC2Ff6Ni1KKUkq9idvRoeAr1t6WNHw=",
+      "Fingerprint": "xl6ydr2m2w",
+      "Integrity": "C5HB87GNzfahT1ZRMkYi5cJ7TVVKP0L29ISbDGlfZcU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\dist\\index.html"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.f20879e96681a701.bundle.js",
+      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.d26e8ae0a68f244b.bundle.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
-      "RelativePath": "dist/main.f20879e96681a701.bundle#[.{fingerprint}]?.js",
+      "RelativePath": "dist/main.d26e8ae0a68f244b.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -157,11 +157,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5or5e7u5fu",
-      "Integrity": "q3pYYp+zkkSEC228IiFT/IMFhtXsc8zErP18TRANKq8=",
+      "Fingerprint": "qclkgpn02k",
+      "Integrity": "5tLAm9KXgs7qHBypsYsg9SIlqfJEbgqGJ5yN31sytEg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\dist\\main.f20879e96681a701.bundle.js"
+      "OriginalItemSpec": "wwwroot\\dist\\main.d26e8ae0a68f244b.bundle.js"
     },
     {
       "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\polyfills.c1e050f4e0a97fba.bundle.js",
@@ -1572,7 +1572,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:54:56 GMT"
+          "Value": "Fri, 28 Mar 2025 05:43:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1617,7 +1617,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:54:56 GMT"
+          "Value": "Fri, 28 Mar 2025 05:43:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1654,7 +1654,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:38:33 GMT"
+          "Value": "Fri, 28 Mar 2025 05:38:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1691,7 +1691,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:38:33 GMT"
+          "Value": "Fri, 28 Mar 2025 05:38:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1714,51 +1714,6 @@
       ]
     },
     {
-      "Route": "dist/index.a0yj9pmwrh.html",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "605"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6j9hMrkd8kM8ioC2Ff6Ni1KKUkq9idvRoeAr1t6WNHw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:54:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "a0yj9pmwrh"
-        },
-        {
-          "Name": "label",
-          "Value": "dist/index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6j9hMrkd8kM8ioC2Ff6Ni1KKUkq9idvRoeAr1t6WNHw="
-        }
-      ]
-    },
-    {
       "Route": "dist/index.html",
       "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\index.html",
       "Selectors": [],
@@ -1777,11 +1732,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6j9hMrkd8kM8ioC2Ff6Ni1KKUkq9idvRoeAr1t6WNHw=\""
+          "Value": "\"C5HB87GNzfahT1ZRMkYi5cJ7TVVKP0L29ISbDGlfZcU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:54:56 GMT"
+          "Value": "Fri, 28 Mar 2025 05:43:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1791,13 +1746,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6j9hMrkd8kM8ioC2Ff6Ni1KKUkq9idvRoeAr1t6WNHw="
+          "Value": "sha256-C5HB87GNzfahT1ZRMkYi5cJ7TVVKP0L29ISbDGlfZcU="
         }
       ]
     },
     {
-      "Route": "dist/main.f20879e96681a701.bundle.5or5e7u5fu.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.f20879e96681a701.bundle.js",
+      "Route": "dist/index.xl6ydr2m2w.html",
+      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1806,19 +1761,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "227465"
+          "Value": "605"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/html"
         },
         {
           "Name": "ETag",
-          "Value": "\"q3pYYp+zkkSEC228IiFT/IMFhtXsc8zErP18TRANKq8=\""
+          "Value": "\"C5HB87GNzfahT1ZRMkYi5cJ7TVVKP0L29ISbDGlfZcU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:54:56 GMT"
+          "Value": "Fri, 28 Mar 2025 05:43:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1828,21 +1783,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5or5e7u5fu"
+          "Value": "xl6ydr2m2w"
         },
         {
           "Name": "label",
-          "Value": "dist/main.f20879e96681a701.bundle.js"
+          "Value": "dist/index.html"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-q3pYYp+zkkSEC228IiFT/IMFhtXsc8zErP18TRANKq8="
+          "Value": "sha256-C5HB87GNzfahT1ZRMkYi5cJ7TVVKP0L29ISbDGlfZcU="
         }
       ]
     },
     {
-      "Route": "dist/main.f20879e96681a701.bundle.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.f20879e96681a701.bundle.js",
+      "Route": "dist/main.d26e8ae0a68f244b.bundle.js",
+      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.d26e8ae0a68f244b.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1851,7 +1806,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "227465"
+          "Value": "228814"
         },
         {
           "Name": "Content-Type",
@@ -1859,11 +1814,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"q3pYYp+zkkSEC228IiFT/IMFhtXsc8zErP18TRANKq8=\""
+          "Value": "\"5tLAm9KXgs7qHBypsYsg9SIlqfJEbgqGJ5yN31sytEg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:54:56 GMT"
+          "Value": "Fri, 28 Mar 2025 05:43:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1873,7 +1828,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-q3pYYp+zkkSEC228IiFT/IMFhtXsc8zErP18TRANKq8="
+          "Value": "sha256-5tLAm9KXgs7qHBypsYsg9SIlqfJEbgqGJ5yN31sytEg="
+        }
+      ]
+    },
+    {
+      "Route": "dist/main.d26e8ae0a68f244b.bundle.qclkgpn02k.js",
+      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.d26e8ae0a68f244b.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5tLAm9KXgs7qHBypsYsg9SIlqfJEbgqGJ5yN31sytEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 05:43:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qclkgpn02k"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/main.d26e8ae0a68f244b.bundle.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5tLAm9KXgs7qHBypsYsg9SIlqfJEbgqGJ5yN31sytEg="
         }
       ]
     },
@@ -1900,7 +1900,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:38:33 GMT"
+          "Value": "Fri, 28 Mar 2025 05:38:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1937,7 +1937,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:38:33 GMT"
+          "Value": "Fri, 28 Mar 2025 05:38:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1982,7 +1982,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:38:33 GMT"
+          "Value": "Fri, 28 Mar 2025 05:38:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2019,7 +2019,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:38:33 GMT"
+          "Value": "Fri, 28 Mar 2025 05:38:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2064,7 +2064,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:38:33 GMT"
+          "Value": "Fri, 28 Mar 2025 05:38:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2109,7 +2109,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:38:33 GMT"
+          "Value": "Fri, 28 Mar 2025 05:38:03 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -18,7 +18,7 @@ namespace MVCTest.Service
         {
             try
             {
-                var response = await _httpClient.GetStringAsync($"{_apiBaseUrl}Manager/GetAllDvds");
+                var response = await _httpClient.GetStringAsync($"{_apiBaseUrl}/Manager/GetAllDvds");
                 return JsonConvert.DeserializeObject<List<Dvd>>(response);
             }
             catch (Exception ex)

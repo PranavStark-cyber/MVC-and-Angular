@@ -15,6 +15,10 @@ export class DvdListComponent implements OnInit {
   ngOnInit(): void {
     this.dvdService.getAllDvds().subscribe((data) => {
       this.dvds = data;
+      console.log(this.dvds);
+      
     });
   }
+
+
 }

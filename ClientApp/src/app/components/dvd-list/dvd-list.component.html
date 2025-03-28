@@ -3,6 +3,7 @@
 <table class="table table-striped">
   <thead>
     <tr>
+      <th>DVD</th>
       <th>ID</th>
       <th>Title</th>
       <th>Genre</th>
@@ -11,6 +12,7 @@
   </thead>
   <tbody>
     <tr *ngFor="let dvd of dvds">
+      <td><img src="{{ dvd.imageUrl }}" alt="" height="100px"></td>
       <td>{{ dvd.id }}</td>
       <td>{{ dvd.title }}</td>
       <td>{{ dvd.price }}</td>
