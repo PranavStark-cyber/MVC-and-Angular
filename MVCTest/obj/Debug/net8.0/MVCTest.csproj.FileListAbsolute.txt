@@ -35,3 +35,4 @@ D:\Project\Test\MvcAngularReka1\MVCTest\MVCTest\obj\Debug\net8.0\ref\MVCTest.dll
 D:\Project\Test\MvcAngularReka1\MVCTest\MVCTest\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\Project\Test\MvcAngularReka1\MVCTest\MVCTest\obj\Debug\net8.0\MVCTest.csproj.AssemblyReference.cache
 D:\Project\Test\MvcAngularReka1\MVCTest\MVCTest\obj\Debug\net8.0\MVCTest.csproj.Up2Date
+D:\Project\Test\MvcAngularReka1\MVCTest\MVCTest\obj\Debug\net8.0\MVCTest.sourcelink.json

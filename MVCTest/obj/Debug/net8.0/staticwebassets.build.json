@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/xZI/XOrYjIed6fZL42BWzfaTzD2oBQuAoueJzxq5B4=",
+  "Hash": "8FCjnHlA89ciXd6ke4LWZwh2/mg0Y0NYKM/p3AAmRDk=",
   "Source": "MVCTest",
   "BasePath": "_content/MVCTest",
   "Mode": "Default",
@@ -136,19 +136,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5udy1wj3li",
-      "Integrity": "c3QTu+o0KrK7R9M2f9i5OKMPOwztA7fHxSA8MSiirLI=",
+      "Fingerprint": "a0yj9pmwrh",
+      "Integrity": "6j9hMrkd8kM8ioC2Ff6Ni1KKUkq9idvRoeAr1t6WNHw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\dist\\index.html"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.164f783d4ac8b9d7.bundle.js",
+      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.f20879e96681a701.bundle.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
-      "RelativePath": "dist/main.164f783d4ac8b9d7.bundle#[.{fingerprint}]?.js",
+      "RelativePath": "dist/main.f20879e96681a701.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -157,11 +157,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jvxi4usmpb",
-      "Integrity": "/3e3q1xkxmYCGcYxGwjBtHbHHPwgn5ulFr1sfnlsl5I=",
+      "Fingerprint": "5or5e7u5fu",
+      "Integrity": "q3pYYp+zkkSEC228IiFT/IMFhtXsc8zErP18TRANKq8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\dist\\main.164f783d4ac8b9d7.bundle.js"
+      "OriginalItemSpec": "wwwroot\\dist\\main.f20879e96681a701.bundle.js"
     },
     {
       "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\polyfills.c1e050f4e0a97fba.bundle.js",
@@ -1572,7 +1572,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:43:53 GMT"
+          "Value": "Fri, 28 Mar 2025 01:54:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1617,7 +1617,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:43:53 GMT"
+          "Value": "Fri, 28 Mar 2025 01:54:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1714,7 +1714,7 @@
       ]
     },
     {
-      "Route": "dist/index.5udy1wj3li.html",
+      "Route": "dist/index.a0yj9pmwrh.html",
       "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1732,11 +1732,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c3QTu+o0KrK7R9M2f9i5OKMPOwztA7fHxSA8MSiirLI=\""
+          "Value": "\"6j9hMrkd8kM8ioC2Ff6Ni1KKUkq9idvRoeAr1t6WNHw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:43:53 GMT"
+          "Value": "Fri, 28 Mar 2025 01:54:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1746,7 +1746,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5udy1wj3li"
+          "Value": "a0yj9pmwrh"
         },
         {
           "Name": "label",
@@ -1754,7 +1754,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c3QTu+o0KrK7R9M2f9i5OKMPOwztA7fHxSA8MSiirLI="
+          "Value": "sha256-6j9hMrkd8kM8ioC2Ff6Ni1KKUkq9idvRoeAr1t6WNHw="
         }
       ]
     },
@@ -1777,11 +1777,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c3QTu+o0KrK7R9M2f9i5OKMPOwztA7fHxSA8MSiirLI=\""
+          "Value": "\"6j9hMrkd8kM8ioC2Ff6Ni1KKUkq9idvRoeAr1t6WNHw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:43:53 GMT"
+          "Value": "Fri, 28 Mar 2025 01:54:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1791,13 +1791,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-c3QTu+o0KrK7R9M2f9i5OKMPOwztA7fHxSA8MSiirLI="
+          "Value": "sha256-6j9hMrkd8kM8ioC2Ff6Ni1KKUkq9idvRoeAr1t6WNHw="
         }
       ]
     },
     {
-      "Route": "dist/main.164f783d4ac8b9d7.bundle.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.164f783d4ac8b9d7.bundle.js",
+      "Route": "dist/main.f20879e96681a701.bundle.5or5e7u5fu.js",
+      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.f20879e96681a701.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1806,7 +1806,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "227461"
+          "Value": "227465"
         },
         {
           "Name": "Content-Type",
@@ -1814,48 +1814,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/3e3q1xkxmYCGcYxGwjBtHbHHPwgn5ulFr1sfnlsl5I=\""
+          "Value": "\"q3pYYp+zkkSEC228IiFT/IMFhtXsc8zErP18TRANKq8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:43:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/3e3q1xkxmYCGcYxGwjBtHbHHPwgn5ulFr1sfnlsl5I="
-        }
-      ]
-    },
-    {
-      "Route": "dist/main.164f783d4ac8b9d7.bundle.jvxi4usmpb.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.164f783d4ac8b9d7.bundle.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "227461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/3e3q1xkxmYCGcYxGwjBtHbHHPwgn5ulFr1sfnlsl5I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 01:43:53 GMT"
+          "Value": "Fri, 28 Mar 2025 01:54:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1865,15 +1828,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jvxi4usmpb"
+          "Value": "5or5e7u5fu"
         },
         {
           "Name": "label",
-          "Value": "dist/main.164f783d4ac8b9d7.bundle.js"
+          "Value": "dist/main.f20879e96681a701.bundle.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/3e3q1xkxmYCGcYxGwjBtHbHHPwgn5ulFr1sfnlsl5I="
+          "Value": "sha256-q3pYYp+zkkSEC228IiFT/IMFhtXsc8zErP18TRANKq8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/main.f20879e96681a701.bundle.js",
+      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.f20879e96681a701.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3pYYp+zkkSEC228IiFT/IMFhtXsc8zErP18TRANKq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 01:54:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q3pYYp+zkkSEC228IiFT/IMFhtXsc8zErP18TRANKq8="
         }
       ]
     },

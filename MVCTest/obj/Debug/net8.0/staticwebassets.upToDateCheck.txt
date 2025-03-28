@@ -2,7 +2,7 @@ wwwroot\css\site.css
 wwwroot\dist\3rdpartylicenses.txt
 wwwroot\dist\favicon.ico
 wwwroot\dist\index.html
-wwwroot\dist\main.164f783d4ac8b9d7.bundle.js
+wwwroot\dist\main.f20879e96681a701.bundle.js
 wwwroot\dist\polyfills.c1e050f4e0a97fba.bundle.js
 wwwroot\dist\runtime.284ad0ab411a72eb.bundle.js
 wwwroot\dist\styles.ef46db3751d8e999.css

@@ -4,15 +4,15 @@ import { catchError, Observable, of } from 'rxjs';
 
 export interface Dvd {
   id: number;
-  Title: string;
-  Price: number;
-  ReleaseDate: Date;
+  title: string;
+  price: number;
+  releaseDate: Date;
 }
 @Injectable({
   providedIn: 'root'
 })
 export class DvdService {
-  private apiUrl = 'http://localhost:7294/api/Dvd/GetAllDvds';
+  private apiUrl = 'https://localhost:7294/api/Dvd/get-all';
   constructor(private http: HttpClient) {}
 
   getAllDvds(): Observable<Dvd[]> {

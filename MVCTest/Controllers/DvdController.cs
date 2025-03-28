@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using MVCTest.Service;
+﻿using Microsoft.AspNetCore.Mvc;
+using System.Net.Http;
+using System.Threading.Tasks;
 
 namespace MVCTest.Controllers
 {
@@ -8,29 +8,25 @@ namespace MVCTest.Controllers
     [ApiController]
     public class DvdController : ControllerBase
     {
-        private readonly DvdService _dvdService;
+        private readonly HttpClient _httpClient;
 
-        public DvdController(DvdService dvdService)
+        public DvdController(HttpClient httpClient)
         {
-            _dvdService = dvdService;
+            _httpClient = httpClient;
         }
 
-        // GET api/dvd/GetAllDvds
-        [HttpGet("GetAllDvds")]
+        [HttpGet("get-all")]
         public async Task<IActionResult> GetAllDvds()
         {
-            try
+            string apiUrl = "http://localhost:5092/api/Manager/GetAllDvds";
+            var response = await _httpClient.GetAsync(apiUrl);
+
+            if (response.IsSuccessStatusCode)
             {
-                var dvds = await _dvdService.GetAllDvdsAsync();
-                //return Ok(dvds); // Respond with 200 OK and data
-                return Ok(new { message = "API is working" });
+                var data = await response.Content.ReadAsStringAsync();
+                return Content(data, "application/json"); // JSON format la return pannum
             }
-            catch (Exception ex)
-            {
-                // Log the error (optional)
-                Console.WriteLine(ex.Message);
-                return StatusCode(500, "Internal server error");
-            }
+            return BadRequest("Error fetching data");
         }
     }
 }

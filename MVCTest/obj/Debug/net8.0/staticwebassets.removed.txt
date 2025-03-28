@@ -1,1 +1,1 @@
-D:\Project\Test\MvcAngularReka1\MVCTest\MVCTest\wwwroot\dist\main.164f783d4ac8b9d7.bundle.js
+D:\Project\Test\MvcAngularReka1\MVCTest\MVCTest\wwwroot\dist\main.f20879e96681a701.bundle.js
