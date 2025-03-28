@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "MVCTest.Controllers.DvdController",
+    "Method": "GetAllDvds",
+    "RelativePath": "api/Dvd/GetAllDvds",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

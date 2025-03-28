@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section HeaderScripts {
+
+    @* <base href="@BaseUrl"> *@
+
+    <environment names="Production,Development">
+        <!-- Include all scripts in Staging and Production environments -->
+        <link rel="stylesheet" asp-href-include="dist/styles.*.css" />
+    </environment>
+
+}
+
+<div>
+    <app-root></app-root>
+</div>
+@section Scripts {
+
+    <environment names="Production,Development">
+
+        <script asp-src-include="dist/runtime.*.js"></script>
+        <script asp-src-include="dist/polyfills.*.js"></script>
+        <script asp-src-include="dist/main.*.js"></script>
+
+    </environment>
+}
