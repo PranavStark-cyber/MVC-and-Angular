@@ -11,11 +11,14 @@ namespace MVCTest.Controllers
     {
         private readonly HttpClient _httpClient;
         private readonly DvdService _dvdService;
+        private readonly ProductService _productService;
 
-        public DvdController(HttpClient httpClient, DvdService dvdService)
+
+        public DvdController(HttpClient httpClient, DvdService dvdService, ProductService productService)
         {
             _httpClient = httpClient;
             _dvdService = dvdService;
+            _productService = productService;
         }
 
         //[HttpGet("get-all")]
@@ -37,6 +40,16 @@ namespace MVCTest.Controllers
         {
             var dvds = await _dvdService.GetAllDvdsAsync();
             return Ok(dvds);
+        }
+
+        [HttpGet("get-all-products")]
+        public async Task<IActionResult> GetProducts()
+        {
+            var products = await _productService.GetAllProducts();
+
+            if (products.IsError)
+                return BadRequest(products);
+            return Ok(products);
         }
     }
 }

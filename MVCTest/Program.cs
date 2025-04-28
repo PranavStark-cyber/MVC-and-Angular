@@ -12,7 +12,11 @@ builder.Services.AddControllers()
 
 // Register HttpClient for API calls
 builder.Services.AddHttpClient<DvdService>();
+//builder.Services.AddHttpClient<HttpService>();
 builder.Services.AddScoped<DvdService>();
+builder.Services.AddScoped<HttpService>();
+builder.Services.AddScoped<ApiService>();
+builder.Services.AddScoped<ProductService>();
 
 // Add MVC controllers
 builder.Services.AddControllersWithViews();

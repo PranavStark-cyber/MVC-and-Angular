@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\MVCTest.csproj": {}
+    "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\MVCTest.csproj": {}
   },
   "projects": {
-    "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\MVCTest.csproj": {
+    "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\MVCTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\MVCTest.csproj",
+        "projectUniqueName": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\MVCTest.csproj",
         "projectName": "MVCTest",
-        "projectPath": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\MVCTest.csproj",
+        "projectPath": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\MVCTest.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\obj\\",
+        "outputPath": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

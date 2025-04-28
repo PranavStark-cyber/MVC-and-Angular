@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5YqhjgKXsBD4HTXblLdak+TJA0NA51D4u2zOjAKcPW4=",
+  "Hash": "K66IHk5YxU8shOXd1O3If2GnB7MFUwZZf1ylzTmSMpg=",
   "Source": "MVCTest",
   "BasePath": "_content/MVCTest",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MVCTest\\wwwroot",
       "Source": "MVCTest",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCTest.styles.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCTest.styles.css",
       "SourceId": "MVCTest",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "MVCTest#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "+V7L44poX6nTuWrxAy5u0Lpd8r9PP3KuKy3avv7xB+A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCTest.styles.css"
+      "OriginalItemSpec": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCTest.styles.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCTest.bundle.scp.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCTest.bundle.scp.css",
       "SourceId": "MVCTest",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "MVCTest#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "+V7L44poX6nTuWrxAy5u0Lpd8r9PP3KuKy3avv7xB+A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCTest.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCTest.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\css\\site.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\3rdpartylicenses.txt",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\3rdpartylicenses.txt",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "dist/3rdpartylicenses#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\3rdpartylicenses.txt"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\favicon.ico",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\favicon.ico",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "dist/favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\favicon.ico"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\index.html",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\index.html",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "dist/index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\index.html"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.d26e8ae0a68f244b.bundle.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\main.d26e8ae0a68f244b.bundle.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "dist/main.d26e8ae0a68f244b.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\main.d26e8ae0a68f244b.bundle.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\polyfills.c1e050f4e0a97fba.bundle.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\polyfills.c1e050f4e0a97fba.bundle.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "dist/polyfills.c1e050f4e0a97fba.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\polyfills.c1e050f4e0a97fba.bundle.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\runtime.284ad0ab411a72eb.bundle.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\runtime.284ad0ab411a72eb.bundle.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "dist/runtime.284ad0ab411a72eb.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\runtime.284ad0ab411a72eb.bundle.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\styles.ef46db3751d8e999.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\styles.ef46db3751d8e999.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "dist/styles.ef46db3751d8e999#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\styles.ef46db3751d8e999.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\favicon.ico",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\js\\site.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MVCTest",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\",
+      "ContentRoot": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\",
       "BasePath": "_content/MVCTest",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1469,7 +1469,7 @@
   "Endpoints": [
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1514,7 +1514,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1551,7 +1551,7 @@
     },
     {
       "Route": "dist/3rdpartylicenses.d63781k57e.txt",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\3rdpartylicenses.txt",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\3rdpartylicenses.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1596,7 +1596,7 @@
     },
     {
       "Route": "dist/3rdpartylicenses.txt",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\3rdpartylicenses.txt",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\3rdpartylicenses.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1633,7 +1633,7 @@
     },
     {
       "Route": "dist/favicon.ico",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\favicon.ico",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1670,7 +1670,7 @@
     },
     {
       "Route": "dist/favicon.vagikyz9qx.ico",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\favicon.ico",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1715,7 +1715,7 @@
     },
     {
       "Route": "dist/index.html",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\index.html",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1752,7 +1752,7 @@
     },
     {
       "Route": "dist/index.xl6ydr2m2w.html",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\index.html",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1797,7 +1797,7 @@
     },
     {
       "Route": "dist/main.d26e8ae0a68f244b.bundle.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.d26e8ae0a68f244b.bundle.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\main.d26e8ae0a68f244b.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1834,7 +1834,7 @@
     },
     {
       "Route": "dist/main.d26e8ae0a68f244b.bundle.qclkgpn02k.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\main.d26e8ae0a68f244b.bundle.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\main.d26e8ae0a68f244b.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1879,7 +1879,7 @@
     },
     {
       "Route": "dist/polyfills.c1e050f4e0a97fba.bundle.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\polyfills.c1e050f4e0a97fba.bundle.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\polyfills.c1e050f4e0a97fba.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1916,7 +1916,7 @@
     },
     {
       "Route": "dist/polyfills.c1e050f4e0a97fba.bundle.vpq90jn2qz.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\polyfills.c1e050f4e0a97fba.bundle.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\polyfills.c1e050f4e0a97fba.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1961,7 +1961,7 @@
     },
     {
       "Route": "dist/runtime.284ad0ab411a72eb.bundle.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\runtime.284ad0ab411a72eb.bundle.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\runtime.284ad0ab411a72eb.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1998,7 +1998,7 @@
     },
     {
       "Route": "dist/runtime.284ad0ab411a72eb.bundle.u2sv0rzs9r.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\runtime.284ad0ab411a72eb.bundle.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\runtime.284ad0ab411a72eb.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2043,7 +2043,7 @@
     },
     {
       "Route": "dist/styles.ef46db3751d8e999.5ipweew5fc.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\styles.ef46db3751d8e999.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\styles.ef46db3751d8e999.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2088,7 +2088,7 @@
     },
     {
       "Route": "dist/styles.ef46db3751d8e999.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\dist\\styles.ef46db3751d8e999.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\dist\\styles.ef46db3751d8e999.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2125,7 +2125,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2170,7 +2170,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2207,7 +2207,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2244,7 +2244,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2289,7 +2289,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2326,7 +2326,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2371,7 +2371,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2408,7 +2408,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2453,7 +2453,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2490,7 +2490,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2535,7 +2535,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2572,7 +2572,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2617,7 +2617,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2654,7 +2654,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2699,7 +2699,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2736,7 +2736,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2781,7 +2781,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2818,7 +2818,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2863,7 +2863,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2900,7 +2900,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2945,7 +2945,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2990,7 +2990,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3027,7 +3027,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3064,7 +3064,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3109,7 +3109,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3146,7 +3146,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3191,7 +3191,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3228,7 +3228,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3273,7 +3273,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3310,7 +3310,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3355,7 +3355,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3392,7 +3392,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3429,7 +3429,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3466,7 +3466,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3511,7 +3511,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3556,7 +3556,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3601,7 +3601,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3646,7 +3646,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3683,7 +3683,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3728,7 +3728,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3765,7 +3765,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3802,7 +3802,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3839,7 +3839,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3884,7 +3884,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3929,7 +3929,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3974,7 +3974,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4011,7 +4011,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4056,7 +4056,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4093,7 +4093,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4130,7 +4130,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4167,7 +4167,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4212,7 +4212,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4257,7 +4257,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4294,7 +4294,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4339,7 +4339,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4376,7 +4376,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4421,7 +4421,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4458,7 +4458,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4495,7 +4495,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4540,7 +4540,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4585,7 +4585,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4622,7 +4622,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4667,7 +4667,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4704,7 +4704,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4741,7 +4741,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4786,7 +4786,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4823,7 +4823,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4868,7 +4868,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4913,7 +4913,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4950,7 +4950,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4995,7 +4995,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5032,7 +5032,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5077,7 +5077,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5122,7 +5122,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5159,7 +5159,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5204,7 +5204,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5241,7 +5241,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5278,7 +5278,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5323,7 +5323,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5360,7 +5360,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5405,7 +5405,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5442,7 +5442,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5479,7 +5479,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5524,7 +5524,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5569,7 +5569,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5606,7 +5606,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5651,7 +5651,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5688,7 +5688,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5725,7 +5725,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5762,7 +5762,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5807,7 +5807,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5852,7 +5852,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5897,7 +5897,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5934,7 +5934,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5979,7 +5979,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6024,7 +6024,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6061,7 +6061,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6106,7 +6106,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6151,7 +6151,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6188,7 +6188,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6225,7 +6225,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6270,7 +6270,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6307,7 +6307,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6352,7 +6352,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6389,7 +6389,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6434,7 +6434,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6471,7 +6471,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6508,7 +6508,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6553,7 +6553,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6590,7 +6590,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6635,7 +6635,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6672,7 +6672,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6717,7 +6717,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6762,7 +6762,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6799,7 +6799,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6844,7 +6844,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6881,7 +6881,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6926,7 +6926,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6963,7 +6963,7 @@
     },
     {
       "Route": "MVCTest.bundle.scp.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCTest.bundle.scp.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCTest.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7000,7 +7000,7 @@
     },
     {
       "Route": "MVCTest.nk2kn8cs0g.bundle.scp.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCTest.bundle.scp.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCTest.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7045,7 +7045,7 @@
     },
     {
       "Route": "MVCTest.nk2kn8cs0g.styles.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCTest.styles.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCTest.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7090,7 +7090,7 @@
     },
     {
       "Route": "MVCTest.styles.css",
-      "AssetFile": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCTest.styles.css",
+      "AssetFile": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCTest.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

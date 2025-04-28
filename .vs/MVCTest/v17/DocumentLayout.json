@@ -1,46 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\",
+  "WorkspaceRootPath": "D:\\Self learn\\2025.3.30\\MVCTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\project\\test\\mvcangularreka1\\mvctest\\mvctest\\controllers\\dvdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\controllers\\dvdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\project\\test\\mvcangularreka1\\mvctest\\mvctest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\service\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\service\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\project\\test\\mvcangularreka1\\mvctest\\mvctest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\project\\test\\mvcangularreka1\\mvctest\\mvctest\\service\\dvdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\service\\dvdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\service\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\service\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\project\\test\\mvcangularreka1\\mvctest\\mvctest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\project\\test\\mvcangularreka1\\mvctest\\mvctest\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\project\\test\\mvcangularreka1\\mvctest\\mvctest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\project\\test\\mvcangularreka1\\mvctest\\mvctest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\service\\dvdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\service\\dvdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\controllers\\dvdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\controllers\\dvdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\project\\test\\mvcangularreka1\\mvctest\\mvctest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\project\\test\\mvcangularreka1\\mvctest\\mvctest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|d:\\self learn\\2025.3.30\\mvctest\\mvctest\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AFAFDE1-CA40-4287-B062-651B1F8488E6}|MVCTest\\MVCTest.csproj|solutionrelative:mvctest\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,67 +74,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MVCTest\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MVCTest\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-28T01:36:38.005Z",
+              "DocumentIndex": 3,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Service\\ApiService.cs",
+              "RelativeDocumentMoniker": "MVCTest\\Service\\ApiService.cs",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Service\\ApiService.cs",
+              "RelativeToolTip": "MVCTest\\Service\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:19:57.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "HttpService.cs",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Service\\HttpService.cs",
+              "RelativeDocumentMoniker": "MVCTest\\Service\\HttpService.cs",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Service\\HttpService.cs",
+              "RelativeToolTip": "MVCTest\\Service\\HttpService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:18:57.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DvdController.cs",
-              "DocumentMoniker": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Controllers\\DvdController.cs",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Controllers\\DvdController.cs",
               "RelativeDocumentMoniker": "MVCTest\\Controllers\\DvdController.cs",
-              "ToolTip": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Controllers\\DvdController.cs",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Controllers\\DvdController.cs",
               "RelativeToolTip": "MVCTest\\Controllers\\DvdController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwC0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T01:22:48.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCTest\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVCTest\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T01:20:40.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "Dvd.cs",
-              "DocumentMoniker": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Models\\Dvd.cs",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Models\\Dvd.cs",
               "RelativeDocumentMoniker": "MVCTest\\Models\\Dvd.cs",
-              "ToolTip": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Models\\Dvd.cs",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Models\\Dvd.cs",
               "RelativeToolTip": "MVCTest\\Models\\Dvd.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T01:19:06.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T01:19:06.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "MVCTest\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "MVCTest\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,13 +154,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Program.cs",
+              "RelativeDocumentMoniker": "MVCTest\\Program.cs",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Program.cs",
+              "RelativeToolTip": "MVCTest\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:07:52.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DvdService.cs",
-              "DocumentMoniker": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Service\\DvdService.cs",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Service\\DvdService.cs",
               "RelativeDocumentMoniker": "MVCTest\\Service\\DvdService.cs",
-              "ToolTip": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Service\\DvdService.cs",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Service\\DvdService.cs",
               "RelativeToolTip": "MVCTest\\Service\\DvdService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T01:18:04.206Z",
               "EditorCaption": ""
@@ -132,54 +181,101 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Program.cs",
-              "RelativeDocumentMoniker": "MVCTest\\Program.cs",
-              "ToolTip": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Program.cs",
-              "RelativeToolTip": "MVCTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T01:07:52.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCTest\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVCTest\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T12:24:27.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVCTest\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVCTest\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T12:24:23.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\appsettings.json",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\appsettings.json",
               "RelativeDocumentMoniker": "MVCTest\\appsettings.json",
-              "ToolTip": "D:\\Project\\Test\\MvcAngularReka1\\MVCTest\\MVCTest\\appsettings.json",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\appsettings.json",
               "RelativeToolTip": "MVCTest\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-28T01:07:30.173Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "MVCTest\\Service\\ProductService.cs",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Service\\ProductService.cs",
+              "RelativeToolTip": "MVCTest\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:21:51.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Endpoints\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "MVCTest\\Endpoints\\ProductEndpoints.cs",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Endpoints\\ProductEndpoints.cs",
+              "RelativeToolTip": "MVCTest\\Endpoints\\ProductEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:21:06.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVCTest\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVCTest\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T16:01:24.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCTest\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCTest\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T10:48:51.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T12:24:27.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T12:24:23.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCTest\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Self learn\\2025.3.30\\MVCTest\\MVCTest\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCTest\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T10:48:53.42Z"
             }
           ]
         }
